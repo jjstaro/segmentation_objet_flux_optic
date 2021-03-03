@@ -13,7 +13,7 @@
  Ensuite nous utiliserons ces valeurs dans la deuxième partie. Nous visualiserons la norme en créant une image dont la valeur du pixel est la norme
  de son flot optique . Nous convertirons ces valeurs en nombre entier entre 0 et 255. 
 
- ## 2- La segmentation des ogjets en mouvement
+ ## 2- La segmentation des objets en mouvement
 Dans une video, si des objets bougent à différentes vitesses, les normes du flot optique sont aussi
 différentes. S'ils se bougent d ans d es d ir ectio ns différentes l es flot s optiq ue s d e c es objets ont des
 différents angles Donc, le flot o ptique la n orme ou l'ange ou l es d eux) vous aide à segmenter d es
